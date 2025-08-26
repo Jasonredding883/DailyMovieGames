@@ -31,7 +31,7 @@ The site combines movie trivia, puzzles, and interactive challenges designed for
 ---
 
 ## 📸 Screenshots
-![Home Page Screenshot](./screenshots/HomePage.png)  
+![Home Page Screenshot](./Screenshots/HomePage.png)  
 ![Guess the Actor Game Screenshot](./Screenshots/GuessTheActor.png)  
 ![Guess The Actor Game Screenshot](./Screenshots/MovieTopTen.png)  
 ![Cast Match Game Screenshot](./Screenshots/CastMatch.png)  
