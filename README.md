@@ -43,7 +43,6 @@ The site combines movie trivia, puzzles, and interactive challenges designed for
 This public repository is designed as a **project showcase**. It contains:  
 - Documentation and technical write-ups  
 - Screenshots of gameplay  
-- Example queries and snippets  
 
 👉 **Note:** Core source code is private to protect intellectual property.  
 
